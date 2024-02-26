@@ -1,0 +1,4 @@
+#Mon Feb 26 18:09:04 BDT 2024
+base.0=D\:\\Projects\\vpn_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

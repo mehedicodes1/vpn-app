@@ -1,0 +1,1 @@
+ D:\\Projects\\vpn_app\\.dart_tool\\flutter_build\\6652f23b4aba3f2ed75813b9879745a3\\native_assets.yaml: 
